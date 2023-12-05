@@ -1,9 +1,12 @@
 ## 👋 Hi! I'm Antoine Bonnet
 
+<img src="epfl-llm.png" width="50px">
+
 I'm a NLP researcher in the [EPFL LLM team](https://huggingface.co/epfl-llm) and working with the [NLP](https://nlp.epfl.ch) and [MLO](https://www.epfl.ch/labs/mlo/) labs at EPFL.
 
 ### Latest Project
 
+<img src="meditron.png" width="25%">
 With a team of 30 EPFL researchers, we built **MEDITRON**, the best open-source Large Language Model in the world. 
 We publicy released the weights of [Meditron-70B](https://huggingface.co/epfl-llm/meditron-70b) and [Meditron-7B](https://huggingface.co/epfl-llm/meditron-7b). 
 
