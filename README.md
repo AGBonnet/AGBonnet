@@ -11,7 +11,7 @@ My latest project is **MEDITRON**, currently the best open-source medical Large 
   <img src="medllama.jpeg" width="35%">
 </p>
 
-We've been working with an amazing team of 20 researchers from EPFL and Yale School of Medicine for the past 6 months to adapt LLaMA-2 with high-quality medical knowledge. 
+We've been working with an amazing team of 20 researchers from EPFL and Yale School of Medicine for the past 6 months to extend LLaMA-2 with high-quality medical knowledge. 
 
 We've publicly released the weights for [Meditron-70B](https://huggingface.co/epfl-llm/meditron-70b) and [Meditron-7B](https://huggingface.co/epfl-llm/meditron-7b) on Huggingface. 
 
