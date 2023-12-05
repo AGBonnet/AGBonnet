@@ -23,7 +23,7 @@ We've publicly released the weights for [Meditron-70B](https://huggingface.co/ep
 
 - 🗞️ **Press Release**: [EPFL's new Large Language Model for Medical Knowledge](https://actu.epfl.ch/news/epfl-s-new-large-language-model-for-medical-knowle/)
 
-- 🧬 **NEW medical dataset**: 46,000 clinical practice guidelines from the [Guidelines Corpus](https://huggingface.co/datasets/epfl-llm/guidelines)
+- 🧬 **NEW medical dataset**: [Clinical Guidelines Corpus](https://huggingface.co/datasets/epfl-llm/guidelines)
 
 ### 🎓 Education
 
