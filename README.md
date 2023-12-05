@@ -4,8 +4,6 @@
 
 I'm a Natural Language Processing (NLP) researcher in the [EPFL LLM team](https://huggingface.co/epfl-llm) collaborating with the [NLP](https://nlp.epfl.ch) and [MLO](https://www.epfl.ch/labs/mlo/) labs at EPFL.
 
-## Latest Project
-
 <img src="meditron.png" width="25%">
 
 With a team of 30 EPFL researchers, we proudly present **MEDITRON**, the world's best open-source Large Language Model. 🌐 We've publicly released the weights for [Meditron-70B](https://huggingface.co/epfl-llm/meditron-70b) and [Meditron-7B](https://huggingface.co/epfl-llm/meditron-7b).
