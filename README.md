@@ -7,6 +7,11 @@ I'm a Natural Language Processing (NLP) researcher in the [EPFL LLM team](https:
 
 My current project is **MEDITRON**, currently the best open-source medical Large Language Model (LLM) in the world. 
 
+
+<center>
+  <img src="medllama.png" width="25%">
+</center>
+
 We've been working with an amazing team of 20 researchers from EPFL and Yale School of Medicine for the past 6 months to train this model on high-quality medical knowledge. 
 
 We've publicly released the weights for [Meditron-70B](https://huggingface.co/epfl-llm/meditron-70b) and [Meditron-7B](https://huggingface.co/epfl-llm/meditron-7b).
