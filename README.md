@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Antoine Bonnet
 
-<img src="epfl-llm.png" width="50px">
+![EPFL LLM Team](epfl-llm.png) <!-- This line adds the image as an emoji -->
 
 I'm a Natural Language Processing (NLP) researcher in the [EPFL LLM team](https://huggingface.co/epfl-llm) collaborating with the [NLP](https://nlp.epfl.ch) and [MLO](https://www.epfl.ch/labs/mlo/) labs at EPFL.
 
