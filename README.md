@@ -1,8 +1,8 @@
 ### 👋 Hi there! I'm Antoine Bonnet
 
-I'm a Natural Language Processing (NLP) researcher in the [EPFL LLM team](https://huggingface.co/epfl-llm) collaborating with the [NLP](https://nlp.epfl.ch) and [MLO](https://www.epfl.ch/labs/mlo/) labs at EPFL. 
+I'm a Natural Language Processing (NLP) researcher in the [EPFL LLM team](https://huggingface.co/epfl-llm) collaborating with the [NLP](https://nlp.epfl.ch) and [MLO](https://www.epfl.ch/labs/mlo/) labs at EPFL. <br>
 
-My current focus is adapting Large Language Models for healthcare. 
+My current focus is on adapting Large Language Models for healthcare. 
 
 
 <img src="meditron.png" width="25%">
