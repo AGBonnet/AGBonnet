@@ -5,7 +5,7 @@ I'm a Natural Language Processing (NLP) researcher in the [EPFL LLM team](https:
 
 <img src="meditron.png" width="25%">
 
-My current project is **MEDITRON**, currently the best open-source medical Large Language Model (LLM) in the world. 
+My latest project is **MEDITRON**, currently the best open-source medical Large Language Model (LLM) in the world. 
 
 <p align="center">
   <img src="medllama.jpeg" width="35%">
