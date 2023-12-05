@@ -15,7 +15,7 @@ We've publicly released the weights for [Meditron-70B](https://huggingface.co/ep
 
 - 📖 **Paper**: [MEDITRON-70B: Scaling Medical Pre-Training For Large Language Models](https://arxiv.org/abs/2311.16079) (pre-print)
 
-- 📢 **Announcement** [LinkedIn post](https://www.linkedin.com/feed/update/urn:li:activity:7135408165017243648/)
+- 📢 **Announcement**: [LinkedIn post](https://www.linkedin.com/feed/update/urn:li:activity:7135408165017243648/)
 
 - 🗞️ **Press Release**: [EPFL's new Large Language Model for Medical Knowledge](https://actu.epfl.ch/news/epfl-s-new-large-language-model-for-medical-knowle/)
 
