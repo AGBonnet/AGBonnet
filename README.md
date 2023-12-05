@@ -1,6 +1,6 @@
 ### 👋 Hi there! I'm Antoine Bonnet
 
-I'm a Natural Language Processing (NLP) researcher in the [EPFL LLM team](https://huggingface.co/epfl-llm) collaborating with the [NLP](https://nlp.epfl.ch) and [MLO](https://www.epfl.ch/labs/mlo/) labs at EPFL.
+I'm a Natural Language Processing (NLP) researcher in the [EPFL LLM team](https://huggingface.co/epfl-llm) collaborating with the [NLP](https://nlp.epfl.ch) and [MLO](https://www.epfl.ch/labs/mlo/) labs at EPFL. My current focus is adapting Large Language Models for healthcare. 
 
 
 <img src="meditron.png" width="25%">
@@ -15,7 +15,7 @@ We've publicly released the weights for [Meditron-70B](https://huggingface.co/ep
 
 - 📖 **Paper**: [MEDITRON-70B: Scaling Medical Pre-Training For Large Language Models](https://arxiv.org/abs/2311.16079) (pre-print)
 
-- 📢 [**Announcement**](https://www.linkedin.com/feed/update/urn:li:activity:7135408165017243648/)
+- 📢 **Announcement** [](https://www.linkedin.com/feed/update/urn:li:activity:7135408165017243648/)
 
 - 🗞️ **Press Release**: [EPFL's new Large Language Model for Medical Knowledge](https://actu.epfl.ch/news/epfl-s-new-large-language-model-for-medical-knowle/)
 
