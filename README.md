@@ -29,3 +29,5 @@ We've publicly released the weights for [Meditron-70B](https://huggingface.co/ep
 
 - MSc in Computer Science \@ EPFL, Swiss Federal Institute of Technology
 - BSc Honours in Computer Science and Mathematics \@ McGill University 
+
+[Read my resume](CV.pdf)
