@@ -3,7 +3,7 @@
 I'm a Masters student at EPFL and Natural Language Processing (NLP) researcher in the [EPFL LLM team](https://huggingface.co/epfl-llm) collaborating with the [NLP](https://nlp.epfl.ch) and [MLO](https://www.epfl.ch/labs/mlo/) labs. My current focus is on adapting Large Language Models for healthcare. 
 
 
-<img src="meditron.png" width="25%">
+<img src="meditron-logo" width="25%">
 
 My latest project is **MEDITRON**, currently the best open-source medical Large Language Model (LLM) in the world. 
 
