@@ -1,6 +1,6 @@
 ## 💡 Hi there!
 
-I'm a Masters student at EPFL and Natural Language Processing (NLP) researcher in the [EPFL LLM team](https://huggingface.co/epfl-llm) collaborating with the [NLP](https://nlp.epfl.ch), [MLO](https://www.epfl.ch/labs/mlo/) and [LiGHT](https://www.epfl.ch/labs/mlo/light/) labs. My current focus is on medical large language models.
+I'm Antoine Bonnet, a NLP researcher at EPFL collaborating with the [NLP](https://nlp.epfl.ch), [MLO](https://www.epfl.ch/labs/mlo/) and [LiGHT](https://www.epfl.ch/labs/mlo/light/) labs. My current focus is on medical large language models.
 
 ### Latest projects
 
@@ -8,45 +8,21 @@ I'm a Masters student at EPFL and Natural Language Processing (NLP) researcher i
   <img src="figs/moove.png" width="100%" style="padding-top: 40px; padding-bottom: 10px;">
 </p>
 
-<div align="center">
-  <p  style="width: 80%; display: inline-block;" align="left">
-  🚨 Evaluating medical AI models is hard. We're building a space to fix that.
-  </p>
-</div>
+🚨 Evaluating medical AI models is hard. We're building a space to fix that.
 
-<div align="center">
-  <p  style="width: 80%; display: inline-block;" align="left">
-🧬 The Moove is a collaborative platform where doctors can share their expertise to evaluate and align AI with real-world medical standards.
-  </p>
-</div>
+🧬 The **Moove** is a collaborative platform where doctors can share their expertise to evaluate and align AI with real-world medical standards.
 
-<div align="center">
-  <p  style="width: 80%; display: inline-block;" align="left">
-  🏥 Coming soon! We're currently working hard to bring the Moove to life, collaborating with humanitarian organizations (WHO, ICRC) and hospitals (CHUV, HUG).
-  </p>
-</div>
+🏥 **Coming soon!** We're currently working hard to bring it to life, collaborating with humanitarian organizations (WHO, ICRC) and hospitals (CHUV, HUG).
 
-👉 Join us at [jointhemoove.org](https://jointhemoove.org).
+👉 **[Join the Moove](https://jointhemoove.org)**
 
 <img src="figs/meditron.png" width="100%" style="padding-top: 40px; padding-bottom: 20px;">
 
-<div align="center">
-  <p  style="width: 80%; display: inline-block;" align="left">
-  🧪  Meditron is a suite of open-source medical foundation large language models (LLMs). 
-  </p>
-</div>
+🧪  **Meditron** is a suite of open-source medical foundation large language models (LLMs). 
 
-<div align="center">
-  <p  style="width: 80%; display: inline-block;" align="left">
-  🎁 We've publicly released the weights for [Meditron-70B](https://huggingface.co/epfl-llm/meditron-70b) and [Meditron-7B](https://huggingface.co/epfl-llm/meditron-7b) on Huggingface. 
-  </p>
-</div>
+🎁 We've publicly released the weights for [Meditron-70B](https://huggingface.co/epfl-llm/meditron-70b) and [Meditron-7B](https://huggingface.co/epfl-llm/meditron-7b) on Huggingface. 
 
-<div align="center">
-  <p  style="width: 80%; display: inline-block;" align="left">
-  🩺 We're now working on the next generation of Meditron, building on Meta's Llama-3.
-  </p>
-</div>
+🩺 We're now working on the next generation of Meditron, building on Meta's Llama-3.
 
 #### To know more
 
@@ -66,4 +42,4 @@ I'm a Masters student at EPFL and Natural Language Processing (NLP) researcher i
 - 🇨🇭 MSc in Computer Science \@ EPFL, Swiss Federal Institute of Technology
 - 🇨🇦 BSc Honours in Computer Science and Mathematics \@ McGill University 
 
-You can find my resume [here](CV.pdf).
+[Download my resume](CV.pdf)
