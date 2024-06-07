@@ -66,16 +66,4 @@ I'm a Masters student at EPFL and Natural Language Processing (NLP) researcher i
 - 🇨🇭 MSc in Computer Science \@ EPFL, Swiss Federal Institute of Technology
 - 🇨🇦 BSc Honours in Computer Science and Mathematics \@ McGill University 
 
-<!-- Embed CV.pdf -->
-
-### 📫 Resume
-
-<div align="center">
-  <iframe src="CV.pdf" width="80%" height="600px"></iframe>
-</div>
-
-<div align="center">
-  <p style="width: 80%; display: inline-block;" align="left">
-    📄 You can also find my resume [here](CV.pdf).
-  </p>
-</div>
+You can find my resume [here](CV.pdf).
