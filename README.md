@@ -1,6 +1,6 @@
 ## 💡 Hi there!
 
-I'm Antoine Bonnet, a research scientist intern at Meta and Master's student at EPFL collaborating at the [NLP](https://nlp.epfl.ch) lab.
+I'm Antoine Bonnet, a research scientist intern at Meta and Master's student at EPFL at the [NLP](https://nlp.epfl.ch) lab.
 
 <img src="figs/meditron.png" width="60%" style="padding-top: 40px; padding-bottom: 20px;">
 
