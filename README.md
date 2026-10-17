@@ -2,20 +2,11 @@
 
 Research engineer on computer-use agents at [H Company](https://hcompany.ai), Paris. Creator of SAgent, the agent harness used to evaluate and train the Holo models, and lead engineer of the H Agents API.
 
-<table>
-  <tr>
-    <td width="50%"><a href="https://hcompany.ai/newsroom/holo4"><img src="figs/card-holo4.png" alt="Holo4: generalist computer-use agents. Co-author."></a></td>
-    <td width="50%"><a href="https://hub.hcompany.ai/agents-api/introduction"><img src="figs/card-api.png" alt="Agents API: computer-use agents in a few lines of code. Lead engineer."></a></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="https://chromewebstore.google.com/detail/holotab/hlaoiikljjgcjdhkakedfngifaopbcop"><img src="figs/card-holotab.png" alt="HoloTab: a browser agent in Chrome. Creator."></a></td>
-    <td width="50%"><a href="https://github.com/hcompai/holo-desktop-cli"><img src="figs/card-desktop.png" alt="HoloDesktop CLI: tell your computer what to do."></a></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="https://bricks.hcompany.ai"><img src="figs/card-bricks.png" alt="HoloBricks: describe it, Holo builds it in LEGO. Creator."></a></td>
-    <td width="50%"><a href="https://blocks.hcompany.ai"><img src="figs/card-blocks.png" alt="HoloBlocks: describe it, Holo builds it in Minecraft. Creator."></a></td>
-  </tr>
-</table>
+<p>
+<a href="https://hcompany.ai/newsroom/holo4"><img width="49%" src="figs/card-holo4.png" alt="Holo4: generalist computer-use agents. Co-author."></a> <a href="https://hub.hcompany.ai/agents-api/introduction"><img width="49%" src="figs/card-api.png" alt="Agents API: computer-use agents in a few lines of code. Lead engineer."></a>
+<a href="https://chromewebstore.google.com/detail/holotab/hlaoiikljjgcjdhkakedfngifaopbcop"><img width="49%" src="figs/card-holotab.png" alt="HoloTab: a browser agent in Chrome. Creator."></a> <a href="https://github.com/hcompai/holo-desktop-cli"><img width="49%" src="figs/card-desktop.png" alt="HoloDesktop CLI: tell your computer what to do."></a>
+<a href="https://bricks.hcompany.ai"><img width="49%" src="figs/card-bricks.png" alt="HoloBricks: describe it, Holo builds it in LEGO. Creator."></a> <a href="https://blocks.hcompany.ai"><img width="49%" src="figs/card-blocks.png" alt="HoloBlocks: describe it, Holo builds it in Minecraft. Creator."></a>
+</p>
 
 Holo4 models a part in FreeCAD, then slices it for a Bambu Lab printer ([full video](figs/holo4-design-print.mp4)):
 
