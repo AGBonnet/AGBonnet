@@ -12,12 +12,6 @@ Holo4 models a part in FreeCAD, then slices it for a Bambu Lab printer ([full vi
 
 <a href="figs/holo4-design-print.mp4"><img src="figs/holo4-design-print.webp" alt="Holo4 designs a part in FreeCAD and prepares it for 3D printing" width="100%"></a>
 
-### Harness engineering
-
-An example of recent work: for [Holo4](https://hcompany.ai/newsroom/holo4), agents analyzed failed OSWorld 2.0 runs, diagnosed each failure and proposed harness fixes, each reviewed by hand before merging. In one month, without finetuning, the score rose from 6.1% (Qwen3.6 27B) to 59.8%. On the same Qwen3.8 27B weights: 24.8% → 45.9% → 51.1% → 57.6% → 59.8%, above the 48.0% Alibaba reports for this model. The largest gains came from memory that holds over hundreds of steps and a shell on the desktop machine. Every run is public on [trajectories.hcompany.ai](https://trajectories.hcompany.ai).
-
-<a href="https://hcompany.ai/newsroom/holo4"><img src="figs/harness-loop.png" alt="OSWorld 2.0 score across harness iterations"></a>
-
 ### Projects
 
 - [Holo3](https://hcompany.ai/newsroom/holo3) and [Holo3.1](https://hcompany.ai/newsroom/holo3.1): data collection on H's agent harness, integration into HoloTab and the Agents API, and the Holo3.1 launch post.
