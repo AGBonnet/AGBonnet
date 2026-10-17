@@ -2,12 +2,29 @@
 
 Member of Technical Staff, Agents at [H Company](https://hcompany.ai) in Paris. I build computer-use agents end to end: the harness, evals and environments behind the Holo models, and the API and products that ship them.
 
-### Now
+<p>
+  <a href="https://hcompany.ai/newsroom/holo4"><img src="figs/holo4.jpg" width="32%" alt="Holo4"></a>
+  <a href="https://build.hcompany.ai"><img src="figs/build.jpg" width="32%" alt="Build with the H Agents API"></a>
+  <a href="https://trajectories.hcompany.ai"><img src="figs/trajectories.jpg" width="32%" alt="Holo4 trajectories"></a>
+</p>
 
-- 🖥️ **[Holo4](https://hcompany.ai/newsroom/holo4)** (co-author): harness engineering for long-horizon desktop tasks (memory compaction, code + GUI hybrid agent, shell CLIs). 61.7% on OSWorld 2.0 at 1/7 the cost of Opus 5.5. All runs are public on [trajectories.hcompany.ai](https://trajectories.hcompany.ai).
+### Agent-driven harness engineering
+
+For [Holo4](https://hcompany.ai/newsroom/holo4), agents read failed OSWorld 2.0 runs, tagged why each task failed and proposed harness fixes; I reviewed and shipped them. In 17 iterations the same Qwen3.8 27B weights went from 48% (Qwen-reported) to 59.8%, with no finetuning. The two biggest levers: memory that holds up over hundreds of steps, and a shell on the desktop machine itself.
+
+<a href="https://hcompany.ai/newsroom/holo4"><img src="figs/harness-loop.png" alt="OSWorld 2.0 score across harness iterations"></a>
+
+Same prompt, same harness: Holo4 27B (left) vs its base model Qwen3.8 27B (right), building the Eiffel Tower in FreeCAD.
+
+<img src="figs/holo4-vs-qwen.gif" alt="Holo4 27B vs Qwen3.8 27B in FreeCAD">
+
+### Things I built
+
+- 🤖 **[Holo3](https://hcompany.ai/newsroom/holo3) and [Holo3.1](https://hcompany.ai/newsroom/holo3.1)**: harness, trace collection and product integration (HoloTab, Agents API); wrote the Holo3.1 launch post. Holo3: 78.9% on OSWorld-Verified.
 - 🔌 **[Agents API](https://hub.hcompany.ai/agents-api/introduction)** (lead engineer): H's public computer-use API, with SDKs, CLI and MCP server.
-- 🧱 **[HoloBricks and HoloBlocks](https://build.hcompany.ai)**: agents that design LEGO and Minecraft builds and fix them from renders.
+- 🧱 **[HoloBricks](https://bricks.hcompany.ai) and [HoloBlocks](https://blocks.hcompany.ai)**: describe a model, an agent builds it brick by brick (or block by block) and fixes it from renders. Try them.
 - 🌐 **[HoloTab](https://hcompany.ai/newsroom/meet-holotab)**: a browser agent in Chrome.
+- 💻 **[HoloDesktop CLI](https://hcompany.ai/newsroom/holodesktop-cli)**: a desktop agent in your terminal.
 - 🏄 **[Surfer 2](https://arxiv.org/abs/2510.19949)**: state of the art on OSWorld, WebVoyager, WebArena and AndroidWorld (2025).
 
 ### Open source
@@ -19,6 +36,12 @@ Member of Technical Staff, Agents at [H Company](https://hcompany.ai) in Paris. 
 | [hcompai/holo-desktop-cli](https://github.com/hcompai/holo-desktop-cli) | Desktop agent in your terminal |
 | [hcompai/holobricks](https://github.com/hcompai/holobricks) | LEGO builder agent |
 | [epfLLM/meditron](https://github.com/epfLLM/meditron) | Open medical LLMs (2.2k ⭐) |
+
+### Activity
+
+Most of my work lives in private H repos, on my work account [@abonneth](https://github.com/abonneth): 10.9k contributions in the past year.
+
+<a href="https://github.com/abonneth"><img src="https://ghchart.rshah.org/6e40c9/abonneth" alt="@abonneth contribution graph" width="100%"></a>
 
 ### Before
 
