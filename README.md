@@ -2,29 +2,40 @@
 
 Research engineer on computer-use agents at [H Company](https://hcompany.ai), Paris. Creator of SAgent, the agent harness used to evaluate and train the Holo models, and lead engineer of the H Agents API.
 
-<p>
-  <a href="https://hcompany.ai/newsroom/holo4"><img src="figs/holo4.jpg" width="32%" alt="Holo4"></a>
-  <a href="https://build.hcompany.ai"><img src="figs/build.jpg" width="32%" alt="Build with the H Agents API"></a>
-  <a href="https://trajectories.hcompany.ai"><img src="figs/trajectories.jpg" width="32%" alt="Holo4 trajectories"></a>
-</p>
+<a href="https://hcompany.ai/newsroom/holo4"><img src="figs/banner-holo4.png" alt="Holo4: 61.7% on OSWorld 2.0 at 1/7 the cost of Opus 5.5. Read the launch." width="100%"></a>
 
-### Harness engineering with agents
+### Harness engineering
 
-For [Holo4](https://hcompany.ai/newsroom/holo4), agents analyzed failed OSWorld 2.0 runs, diagnosed each failure and proposed harness fixes, each reviewed by hand before merging. In one month, without finetuning, the score rose from 6.1% (Qwen3.6 27B) to 59.8%. On the same Qwen3.8 27B weights: 24.8% → 45.9% → 51.1% → 57.6% → 59.8%, above the 48.0% Alibaba reports for this model. The largest gains came from memory that holds over hundreds of steps and a shell on the desktop machine.
+An example of recent work: for [Holo4](https://hcompany.ai/newsroom/holo4), agents analyzed failed OSWorld 2.0 runs, diagnosed each failure and proposed harness fixes, each reviewed by hand before merging. In one month, without finetuning, the score rose from 6.1% (Qwen3.6 27B) to 59.8%. On the same Qwen3.8 27B weights: 24.8% → 45.9% → 51.1% → 57.6% → 59.8%, above the 48.0% Alibaba reports for this model. The largest gains came from memory that holds over hundreds of steps and a shell on the desktop machine. Every run is public on [trajectories.hcompany.ai](https://trajectories.hcompany.ai).
 
 <a href="https://hcompany.ai/newsroom/holo4"><img src="figs/harness-loop.png" alt="OSWorld 2.0 score across harness iterations"></a>
 
-Holo4 27B (left) and its base model Qwen3.8 27B (right) build the Eiffel Tower in FreeCAD, with the same prompt and harness.
+Holo4 models a part in FreeCAD, then slices it for a Bambu Lab printer ([full video](figs/holo4-design-print.mp4)):
 
-<img src="figs/holo4-vs-qwen.gif" alt="Holo4 27B vs Qwen3.8 27B in FreeCAD">
+<a href="figs/holo4-design-print.mp4"><img src="figs/holo4-design-print.gif" alt="Holo4 designs a part in FreeCAD and prepares it for 3D printing" width="100%"></a>
+
+### Try Holo
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://bricks.hcompany.ai"><img src="figs/card-bricks.png" alt="HoloBricks: describe it, Holo builds it in LEGO"></a></td>
+    <td width="50%"><a href="https://blocks.hcompany.ai"><img src="figs/card-blocks.png" alt="HoloBlocks: describe it, Holo builds it in Minecraft"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://hub.hcompany.ai/agents-api/introduction"><img src="figs/card-api.png" alt="Agents API: computer-use agents in a few lines of code"></a></td>
+    <td width="50%"><a href="https://chromewebstore.google.com/detail/holotab/hlaoiikljjgcjdhkakedfngifaopbcop"><img src="figs/card-holotab.png" alt="HoloTab: a browser agent in Chrome"></a></td>
+  </tr>
+</table>
+
+<a href="https://www.youtube.com/watch?v=kSi9JS2l0Ww"><img src="figs/holotab-video.png" alt="Meet HoloTab, watch on YouTube" width="100%"></a>
 
 ### Projects
 
 - [Holo3](https://hcompany.ai/newsroom/holo3) and [Holo3.1](https://hcompany.ai/newsroom/holo3.1): data collection on SAgent, integration into HoloTab and the Agents API, and the Holo3.1 launch post.
 - [Agents API](https://hub.hcompany.ai/agents-api/introduction) (lead engineer): H's public computer-use API, with SDKs, a CLI and an MCP server.
-- [HoloBricks](https://bricks.hcompany.ai) and [HoloBlocks](https://blocks.hcompany.ai): describe a model and an agent builds it in LEGO or Minecraft, checking its renders as it goes. Live demos.
-- [HoloTab](https://hcompany.ai/newsroom/meet-holotab): a browser agent in Chrome.
-- [HoloDesktop CLI](https://hcompany.ai/newsroom/holodesktop-cli): a desktop agent in your terminal.
+- [HoloTab](https://hcompany.ai/newsroom/meet-holotab) (creator): a browser agent in Chrome, 6k users.
+- [HoloBricks](https://bricks.hcompany.ai) and [HoloBlocks](https://blocks.hcompany.ai) (creator): agents that build LEGO and Minecraft models from a prompt and check their renders as they go.
+- [HoloDesktop CLI](https://hcompany.ai/newsroom/holodesktop-cli): a desktop agent in the terminal.
 - [Surfer 2](https://arxiv.org/abs/2510.19949): state of the art on OSWorld, WebVoyager, WebArena and AndroidWorld in 2025.
 
 ### Open source
@@ -33,7 +44,7 @@ Holo4 27B (left) and its base model Qwen3.8 27B (right) build the Eiffel Tower i
 |---|---|
 | [hcompai/hai-agents-python](https://github.com/hcompai/hai-agents-python) | Python SDK and agent harness for Holo models |
 | [hcompai/hai-agents-ts](https://github.com/hcompai/hai-agents-ts) | TypeScript SDK for the Agents API |
-| [hcompai/holo-desktop-cli](https://github.com/hcompai/holo-desktop-cli) | Desktop agent in your terminal |
+| [hcompai/holo-desktop-cli](https://github.com/hcompai/holo-desktop-cli) | Desktop agent in the terminal |
 | [hcompai/holobricks](https://github.com/hcompai/holobricks) | LEGO builder agent |
 | [epfLLM/meditron](https://github.com/epfLLM/meditron) | Open medical LLMs, 2.2k stars |
 
