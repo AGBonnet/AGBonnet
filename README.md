@@ -10,7 +10,7 @@ Member of Technical Staff, Agents at [H Company](https://hcompany.ai) in Paris. 
 
 ### Agent-driven harness engineering
 
-For [Holo4](https://hcompany.ai/newsroom/holo4), agents read failed OSWorld 2.0 runs, tagged why each task failed and proposed harness fixes; I reviewed and shipped them. In 17 iterations the same Qwen3.8 27B weights went from 48% (Qwen-reported) to 59.8%, with no finetuning. The two biggest levers: memory that holds up over hundreds of steps, and a shell on the desktop machine itself.
+For [Holo4](https://hcompany.ai/newsroom/holo4), agents read failed OSWorld 2.0 runs, tagged why each task failed and proposed harness fixes; I reviewed and shipped them. In one month, with no finetuning, our score went from 6.1% (Qwen3.6 27B) to 59.8%. On the same Qwen3.8 27B weights: 24.8% → 45.9% → 51.1% → 57.6% → 59.8%, beating the 48.0% Alibaba reports for this model by 11.8 points. The two biggest levers: memory that holds up over hundreds of steps, and a shell on the desktop machine itself.
 
 <a href="https://hcompany.ai/newsroom/holo4"><img src="figs/harness-loop.png" alt="OSWorld 2.0 score across harness iterations"></a>
 
