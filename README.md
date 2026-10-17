@@ -22,7 +22,7 @@ Holo4 models a part in FreeCAD, then slices it for a Bambu Lab printer ([full vi
     <td width="50%"><a href="https://blocks.hcompany.ai"><img src="figs/card-blocks.png" alt="HoloBlocks: describe it, Holo builds it in Minecraft"></a></td>
   </tr>
   <tr>
-    <td width="50%"><a href="https://hub.hcompany.ai/agents-api/introduction"><img src="figs/card-api.png" alt="Agents API: computer-use agents in a few lines of code"></a></td>
+    <td width="50%"><a href="https://hub.hcompany.ai/agents-api/introduction"><img src="figs/card-api.png" alt="Agents API: computer-use agents in a few lines of code. Lead engineer."></a></td>
     <td width="50%"><a href="https://chromewebstore.google.com/detail/holotab/hlaoiikljjgcjdhkakedfngifaopbcop"><img src="figs/card-holotab.png" alt="HoloTab: a browser agent in Chrome"></a></td>
   </tr>
 </table>
