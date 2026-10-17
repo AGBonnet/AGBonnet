@@ -1,6 +1,6 @@
 ## Antoine Bonnet
 
-Research engineer on computer-use agents at [H Company](https://hcompany.ai), Paris. Creator of SAgent, the agent harness used to evaluate and train the Holo models, and lead engineer of the H Agents API.
+Research engineer on computer-use agents at [H Company](https://hcompany.ai), Paris. Creator of H's agent harness, used to evaluate and train the Holo models, and lead engineer of the H Agents API.
 
 <p>
 <a href="https://hcompany.ai/newsroom/holo4"><img width="49%" src="figs/card-holo4.png" alt="Holo4: generalist computer-use agents. Co-author."></a> <a href="https://hub.hcompany.ai/agents-api/introduction"><img width="49%" src="figs/card-api.png" alt="Agents API: computer-use agents in a few lines of code. Lead engineer."></a>
@@ -20,7 +20,7 @@ An example of recent work: for [Holo4](https://hcompany.ai/newsroom/holo4), agen
 
 ### Projects
 
-- [Holo3](https://hcompany.ai/newsroom/holo3) and [Holo3.1](https://hcompany.ai/newsroom/holo3.1): data collection on SAgent, integration into HoloTab and the Agents API, and the Holo3.1 launch post.
+- [Holo3](https://hcompany.ai/newsroom/holo3) and [Holo3.1](https://hcompany.ai/newsroom/holo3.1): data collection on H's agent harness, integration into HoloTab and the Agents API, and the Holo3.1 launch post.
 - [Agents API](https://hub.hcompany.ai/agents-api/introduction) (lead engineer): H's public computer-use API, with SDKs, a CLI and an MCP server.
 - [HoloTab](https://hcompany.ai/newsroom/meet-holotab) (creator): a browser agent in Chrome, 6k users.
 - [HoloBricks](https://bricks.hcompany.ai) and [HoloBlocks](https://blocks.hcompany.ai) (creator): agents that build LEGO and Minecraft models from a prompt and check their renders as they go.
